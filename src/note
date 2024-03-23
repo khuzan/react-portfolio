@@ -1,0 +1,5 @@
+Installation
+
+
+npx create-react-app react-portfolio
+npm i framer-motion react-anchor-link-smooth-scroll
